@@ -15,18 +15,18 @@
 
 ## Businesses I've started / worked in
 ### 1. Influencer-marketing operations (employed/contractor, ~18 months total)
-- **Augmentum** [verify] — health-focused influencer agency, now 20+ people. Clients include **Lululemon, AG1, Nestlé.** Founders: **Aditya Mahabatra** [verify] and **Samba Shadha** [verify].
-- **Sold for Journey** [verify name] — gaming & tech influencer agency. Worked under mentor **Suhit Amin** [verify].
+- **Augmentum** — health-focused influencer agency, now 20+ people. Clients include **Lululemon, AG1, Nestlé.** Founders: **Aditya Mahapatra** and **Sambhav**.
+- **Saulderson** — gaming & tech influencer agency. Worked under mentor **Suhit Amin**. (**Sold for Journey Tomorrow** is a separate/related agency — [clarify the relationship: acquirer? where Suhit is founder?])
 - **His role:** campaign delivery & ops — facilitating partnerships, campaign strategy, keeping creators on time, getting brands the best return on marketing spend.
 - After ~1 year (collective ~18 months across both), he stopped to do his own thing.
 
-### 2. MPWR Empower [verify spelling/capitalization] — his boutique agency
+### 2. MPWR — his boutique agency
 - Helped creators monetize through **info products.**
 - Worked with thought leaders across: real estate, spirituality, personal improvement/transformation, and food & beverage (F&B).
 - **Shut it down end of 2024.**
 - **Lesson:** any business with **overreliance on one party who doesn't have much skin in the game** is a recipe for a failing business.
 
-### 3. Ally [verify] — AI SaaS for influencer infrastructure
+### 3. Allii — AI SaaS for influencer infrastructure
 - Tried to **vibe-code** a solution for influencer teams stuck doing admin work day in, day out — they were using a **decentralized tech stack**, which made congruency hard.
 - **Stopped because:** he wasn't highly technical, and a **co-founder breakup.**
 - (Directly feeds the "building with AI" lane — a real, honest building-in-public story.)
@@ -36,15 +36,15 @@
 - Proof: Kyle Fitzgerald / Clean Kitchen Nutrition — newsletter **+110% (11k→20k)**, **~300 ebook sales.**
 
 ## People I learned from (mentors)
-- **Suhit Amin** [verify] — founder of Sold for Journey [verify] — taught **hard work and that it's a numbers game.**
-- **Samba Shadha** [verify] — co-founder of Augmentum — taught **always improving** (strategy and delivery).
-- **Aditya Mahabatra** [verify] — co-founder of Augmentum — taught **sales.**
+- **Suhit Amin** — gaming/tech influencer agency (Saulderson / Sold for Journey Tomorrow) — taught **hard work and that it's a numbers game.**
+- **Sambhav** — co-founder of Augmentum — taught **always improving** (strategy and delivery).
+- **Aditya Mahapatra** — co-founder of Augmentum — taught **sales.**
 - **Omar Da Costa Shahid** [verify] — founder of "the Spirituality of Business" — taught **integrating spirituality into business.**
-- **Sayful Islam** [verify] — founder of **M.I.N.** [verify] — taught **confidence.**
+- **Saiful Islam** — founder of **M.I.N.** [verify] — taught **confidence.**
 - **Ziad Hassan** — current business partner (Sawa).
 
 ## Failures / hard lessons
-- **Two startups that didn't work** (MPWR Empower, Ally).
+- **Two startups that didn't work** (MPWR, Allii).
 - Don't treat a business idea like a **baby** — you have to be able to let go and avoid the **sunk-cost fallacy.**
 - **Dunning-Kruger:** every business opportunity looks sexy and attractive from the outside; only once you're in do you realize every one is genuinely hard. Whether it works is up to you.
 - What actually sets a business up for success + longevity: the right combination of **resources, team, motivation, and mindset.**
@@ -64,7 +64,7 @@
 ---
 ### Story angles ready to write (Thursday candidates)
 1. The breadwinner kid who refused the orthodox path (origin → why email/building).
-2. Shutting down MPWR Empower — the "skin in the game" lesson.
-3. Ally's collapse — non-technical founder + co-founder breakup → why he now builds with AI.
+2. Shutting down MPWR — the "skin in the game" lesson.
+3. Allii's collapse — non-technical founder + co-founder breakup → why he now builds with AI.
 4. "Don't treat your business like a baby" — sunk cost + Dunning-Kruger.
 5. What working under Suhit/Samba/Aditya actually taught him (mentor lessons).
