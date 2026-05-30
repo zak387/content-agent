@@ -15,8 +15,8 @@
 
 ## Businesses I've started / worked in
 ### 1. Influencer-marketing operations (employed/contractor, ~18 months total)
-- **Augmentum** — health-focused influencer agency, now 20+ people. Clients include **Lululemon, AG1, Nestlé.** Founders: **Aditya Mahapatra** and **Sambhav**.
-- **Saulderson** — gaming & tech influencer agency. Worked under mentor **Suhit Amin**. (**Sold for Journey Tomorrow** is a separate/related agency — [clarify the relationship: acquirer? where Suhit is founder?])
+- **Augmentum Media** (London/Edinburgh, UK) — health & wellness influencer agency (influencer "seeding" for DTC brands), now 20+ people. Co-founders: **Aditya Mahapatra** and **Sambhav Chadha**. [Per Zak, clients included **Lululemon, AG1, Nestlé** — NOT publicly verified; confirm with Zak before naming any client in a published post.]
+- **Saulderson Media** (Glasgow, UK) — gaming, tech & esports influencer + talent agency. Founded by **Suhit Amin**; acquired by **Journey Further** in Oct 2025. Zak worked under Suhit. [Note: the earlier "Sold for Journey Tomorrow" was a mishearing of "sold to Journey Further."]
 - **His role:** campaign delivery & ops — facilitating partnerships, campaign strategy, keeping creators on time, getting brands the best return on marketing spend.
 - After ~1 year (collective ~18 months across both), he stopped to do his own thing.
 
@@ -36,11 +36,11 @@
 - Proof: Kyle Fitzgerald / Clean Kitchen Nutrition — newsletter **+110% (11k→20k)**, **~300 ebook sales.**
 
 ## People I learned from (mentors)
-- **Suhit Amin** — gaming/tech influencer agency (Saulderson / Sold for Journey Tomorrow) — taught **hard work and that it's a numbers game.**
-- **Sambhav** — co-founder of Augmentum — taught **always improving** (strategy and delivery).
-- **Aditya Mahapatra** — co-founder of Augmentum — taught **sales.**
-- **Omar Da Costa Shahid** [verify] — founder of "the Spirituality of Business" — taught **integrating spirituality into business.**
-- **Saiful Islam** — founder of **M.I.N.** [verify] — taught **confidence.**
+- **Suhit Amin** — founder & CEO of **Saulderson Media** (Glasgow; gaming/tech/esports influencer + talent agency, acquired by Journey Further in 2025); Forbes 30 Under 30. Taught **hard work and that it's a numbers game.**
+- **Sambhav Chadha** — co-founder of **Augmentum Media** — taught **always improving** (strategy and delivery).
+- **Aditya Mahapatra** — co-founder of **Augmentum Media** — taught **sales.**
+- **Omar DaCosta-Shahid** — founder of **"Spirituality of Business"** and co-founder of **M.I.N. (Muslim Influencer Network)**; ex-journalist, Forbes 30 Under 30. Taught **integrating spirituality into business.**
+- **Saiful Islam** — co-founder of **M.I.N. (Muslim Influencer Network)** — taught **confidence.**
 - **Ziad Hassan** — current business partner (Sawa).
 
 ## Failures / hard lessons

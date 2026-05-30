@@ -55,9 +55,23 @@ Every post should give the reader something they can act on. No empty motivation
 ## How Zak talks when NOT performing
 [PENDING — Zak is recording a raw voice note; transcribe and capture cadence, fillers, sentence length, and natural phrasing here.]
 
-## Posts Zak wishes he'd written (with why)
-Zak admires and wants to write like these three. Study their public writing (X/LinkedIn) and borrow the *mechanics*, not the words:
-- **Sahil Bloom** — [research in progress: clarity, frameworks, story-to-lesson structure]
-- **Alex Hormozi** — [research in progress: blunt, tactical, value-dense, contrarian]
-- **Naval** — [research in progress: compressed aphorisms, first-principles, dense ideas]
-(Detailed style notes added from web research — see below once populated.)
+## Reference writers Zak wants to write like
+Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechanics*, not the words or personas.
+
+**BORROW (fits Zak):**
+- **Specific-number / concrete-fact hooks** (Hormozi, Sahil). Open with a real number or a sharp fact, never a warm-up. Numbers must come from `story-bank.md`/reference files — never invented to mimic the punch.
+- **Observation → framework → action** (Sahil). Start on a relatable tension, name a framework, cash it out into do-this-now steps. This maps perfectly onto Zak's **substance rule** (tactical specifics).
+- **Abstract → concrete, always.** Every idea earns a number, a step, or a real example.
+- **One quotable, distilled line per post** (Naval). Engineer one screenshot-worthy takeaway and build around it.
+- **Confident declaratives** (Naval). Minimal hedging ("I think," "maybe") — state it plainly.
+
+**DO NOT COPY (conflicts with Zak's stated taste — see banned-words.md):**
+- ❌ Their **staccato, one-line-per-sentence whitespace layout.** Zak cringes at choppy fragments — his sentences should **flow naturally** in tight paragraphs.
+- ❌ The **"X isn't Y, it's Z" antithesis** (Sahil/Naval lean on it). It's on Zak's banned list.
+- ❌ Hormozi's **hustle/dominance tone and hyperbole** ("beat 99% of people") — clashes with Zak's warm-mentor persona.
+- ❌ Naval-style **pure abstraction/platitudes** with no proof — Zak must anchor any aphorism to a real result or story from the bank.
+
+**Net:** write with Hormozi's discipline and Sahil's structure, Naval's compression of the core idea — but in Zak's own flowing, warm, non-choppy sentences, always tactical, never hyped.
+
+## How Zak talks when NOT performing
+[PENDING — Zak is recording a raw voice note; transcribe and capture cadence, fillers, sentence length, and natural phrasing here.]
