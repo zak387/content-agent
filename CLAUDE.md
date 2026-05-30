@@ -66,10 +66,12 @@ Adjacent (use sparingly, in service of the two above): creator economy, creator 
 ## Current status
 
 - ✅ v1 scaffold built: CLAUDE.md, agent-spec, all pillar skills, shared skills, slash commands, client folder.
-- ⏳ **Tastemaker interview not yet completed** — `clients/zak/story-bank.md` and parts of `profile.md` are templates awaiting Zak's answers. Personal-story (Thu) and re-intro (Mon) skills will be weak until filled.
+- ✅ **Tastemaker interview done (Rounds 1–4):** `profile.md`, `story-bank.md`, `voice-profile.md` populated with real bio, story, cadence, and personal texture. A few minor `[verify]`/`[NEEDS MORE]` tags remain.
+- ✅ Active challenge defined: building **Risala** (AI newsletter agent) — `challenges/risala-build.md` (needs measurable goal + deadline before Monday).
 - ⏳ No real posts drafted yet. No regression examples saved yet.
 - 🔲 Viral sourcing is web search + LunarCrush + manual paste. LinkedIn API/MCP not wired (future phase).
-- 🔲 No lead magnets inventoried yet — `clients/zak/lead-magnets.md` is a template.
+- 🔲 **Lead magnets still not inventoried** — `clients/zak/lead-magnets.md` is a template (Round 4 Q18 pending).
+- 🔲 Off-limits: never name Lululemon/AG1/Nestlé. Remaining topic-avoidance list pending Zak's Round 4 follow-up.
 
 ## Workflow rules for working ON this agent
 

@@ -30,5 +30,12 @@ Five posts per week, one per weekday. Run via `/run-content-week`.
 ## Voice north star
 Warm mentor / builder-in-public. Generous, transparent, specific. Wins AND failures.
 
-## Off-limits
-[PENDING — capture in tastemaker interview: any clients/people Zak can't name, topics to avoid]
+## Active challenge (this cycle)
+Building **Risala** — an AI newsletter-writing agent (see `challenges/risala-build.md`).
+
+## Off-limits (hard rules for published posts)
+- **NEVER name Lululemon, AG1, or Nestlé.** These were *previous companies'/agencies'* clients, NOT Zak's — he does not want to reference them. Same caution for any other Augmentum/Saulderson client.
+- Mentor/agency names are private background; flag before naming any in a published post.
+- Keep client work confidential unless Zak has explicitly cleared it (Kyle Fitzgerald / Clean Kitchen Nutrition results ARE cleared).
+- Avoid off-brand / unrelated topics — stay in the lanes (email/newsletters, building with AI; adjacent creator monetization/info products).
+- [Round 4 follow-up pending — confirm stance on: politics, religion, competitors, personal/family details, revenue specifics, the co-founder breakup.]

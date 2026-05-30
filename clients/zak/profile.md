@@ -14,6 +14,8 @@ Zakaria Laajily — 23, born and raised in Morocco, based in Casablanca. Co-foun
 ## What I'm building now
 **Sawa** — co-founded with partner **Ziad Hassan**. A done-for-you email marketing & newsletter studio for creators, entrepreneurs, education companies, and brands. Focus: newsletter writing + monetization.
 
+**Risala** (رسالة, "letter") — an AI newsletter-writing agent Sawa is building for creators and education companies. Not just voice-mimicry — built to produce real substance using each client's own best practices, formats, and data. Not open source. (Current build-in-public challenge — see `challenges/risala-build.md`.)
+
 ## Audience (who I reach on LinkedIn)
 - Creators who want newsletters
 - Founders

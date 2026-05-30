@@ -15,7 +15,7 @@
 
 ## Businesses I've started / worked in
 ### 1. Influencer-marketing operations (employed/contractor, ~18 months total)
-- **Augmentum Media** (London/Edinburgh, UK) — health & wellness influencer agency (influencer "seeding" for DTC brands), now 20+ people. Co-founders: **Aditya Mahapatra** and **Sambhav Chadha**. [Per Zak, clients included **Lululemon, AG1, Nestlé** — NOT publicly verified; confirm with Zak before naming any client in a published post.]
+- **Augmentum Media** (London/Edinburgh, UK) — health & wellness influencer agency (influencer "seeding" for DTC brands), now 20+ people. Co-founders: **Aditya Mahapatra** and **Sambhav Chadha**. ⛔ **OFF-LIMITS:** Lululemon / AG1 / Nestlé were the *agency's* clients, NOT Zak's — **never name them in a published post.**
 - **Saulderson Media** (Glasgow, UK) — gaming, tech & esports influencer + talent agency. Founded by **Suhit Amin**; acquired by **Journey Further** in Oct 2025. Zak worked under Suhit. [Note: the earlier "Sold for Journey Tomorrow" was a mishearing of "sold to Journey Further."]
 - **His role:** campaign delivery & ops — facilitating partnerships, campaign strategy, keeping creators on time, getting brands the best return on marketing spend.
 - After ~1 year (collective ~18 months across both), he stopped to do his own thing.

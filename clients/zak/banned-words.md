@@ -28,5 +28,10 @@ The `scrub-ai-tells` skill enforces this list. Add to it whenever a tell slips t
 - "Like and share!"
 - Any vague "DM me" without a specific reason/word
 
+## Off-limits in published posts (hard rules)
+- ⛔ Never name **Lululemon, AG1, Nestlé** (previous agencies' clients, not Zak's).
+- Don't name mentors/agencies/clients publicly without Zak's clearance (Kyle Fitzgerald / Clean Kitchen Nutrition IS cleared).
+- Stay in-lane; no off-brand/unrelated topics.
+
 ## Operator's personal no-list
-[PENDING — capture in tastemaker interview: words/cringe Zak personally hates]
+[NEEDS MORE — Round 4 follow-up pending on topics to avoid (politics/religion/competitors/etc.).]
