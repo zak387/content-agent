@@ -53,7 +53,16 @@ Every post should give the reader something they can act on. No empty motivation
 - [NEEDS MORE — collect more signature phrases from voice notes over time.]
 
 ## How Zak talks when NOT performing
-[PENDING — Zak is recording a raw voice note; transcribe and capture cadence, fillers, sentence length, and natural phrasing here.]
+Captured from raw voice notes (Moroccan food + The Book of Eli). This is his true cadence — match it:
+- **Opens with a bold, playful conviction and invites pushback.** e.g. "Moroccan food might be the best food in the world — fight me if you want, but this is certainly something I believe." Confident and warm, never aggressive.
+- **Long, flowing, multi-clause sentences** connected with *and / but / because*. He does NOT speak in choppy fragments — confirms the no-staccato rule.
+- **Light self-aware humor and asides** — "Westerners cannot understand this," "I wouldn't call it a cake, but…"
+- **Builds a small debate and takes a side.** (Fish vs. chicken pastilla with his co-founder.) Uses friendly tension to make a point.
+- **Grounds everything in concrete, sensory, step-by-step specifics** — what's in it, how it's made, when you eat it. (His substance rule in action.)
+- **Closes with warmth + a clear recommendation** — "you have to try it at least once in your life," "I recommend everyone watch it."
+- **Ties stories to meaning and values** — family, ceremony, gratitude/scarcity, purpose. Naturally reaches for quotes he lives by.
+- **Vocabulary:** slightly elevated but natural — "inherent debate," "savory," "longing," "hurdles and obstacles."
+- **Filler/intensifiers he actually uses:** "literally," "really," "a bunch of," "certainly."
 
 ## Reference writers Zak wants to write like
 Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechanics*, not the words or personas.
@@ -72,6 +81,3 @@ Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechan
 - ❌ Naval-style **pure abstraction/platitudes** with no proof — Zak must anchor any aphorism to a real result or story from the bank.
 
 **Net:** write with Hormozi's discipline and Sahil's structure, Naval's compression of the core idea — but in Zak's own flowing, warm, non-choppy sentences, always tactical, never hyped.
-
-## How Zak talks when NOT performing
-[PENDING — Zak is recording a raw voice note; transcribe and capture cadence, fillers, sentence length, and natural phrasing here.]
