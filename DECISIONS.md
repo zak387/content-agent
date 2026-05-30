@@ -13,3 +13,8 @@ Append-only log of meaningful choices about the content agent. Newest at the bot
 - **2026-05-30** — Client folder pattern adopted (`clients/<name>/`) even with one client, so onboarding new clients = new folder.
 - **2026-05-30** — Skills implemented as plain SOP markdown in `skills/`, read on demand by slash-command conductors (chosen over native auto-discovered skills for deterministic, ordered pipeline execution).
 - **2026-05-30** — Monday alternates: first Monday = re-introduction; subsequent Mondays = challenge announcement (30-day / 4-week, optionally 60-day).
+- **2026-05-30** — Tastemaker interview completed (Rounds 1–4). profile/story-bank/voice-profile populated from Zak's real bio, businesses (Augmentum, Saulderson, MPWR, Allii, Sawa), mentors, voice notes, and personal texture.
+- **2026-05-30** — Voice rule refined: Zak admires Sahil Bloom/Hormozi/Naval but explicitly dislikes staccato one-line layout and "X isn't Y, it's Z" antithesis. Voice profile borrows their hooks/structure/compression but keeps Zak's flowing, warm, non-choppy sentences.
+- **2026-05-30** — Active challenge: build **Risala** (AI newsletter agent), 30 days, measured by newsletter production time saved (%). Exact target % still to confirm.
+- **2026-05-30** — First lead magnet: subject-line swipe file (to build).
+- **2026-05-30** — Off-limits finalized: never name Lululemon/AG1/Nestlé (prior agencies' clients); no religion-as-topic (biz-spirituality mindset OK); never name/attack competitors; keep Allii co-founder breakup high-level.
