@@ -15,10 +15,13 @@ An **AI agent that writes newsletters** for creators ("creator-preneurs") and ed
 Lands both primary lanes simultaneously: **building with AI (vibe coding)** + **email/newsletters**. The most on-brand challenge Zak could run.
 
 ## Measurable goal + deadline
-[PENDING — make this measurable before Monday's announcement. Need from Zak: timeframe (30 / 60 days?) and the success metric, e.g. "Risala drafts the full newsletter for N clients," "cuts newsletter production time by X%," "hits an open/click rate of Y for a client," "M people try it."]
+- **Timeframe:** 30 days / 1 month (Monday announce → weekly Friday updates → final result at day 30).
+- **Primary metric:** **newsletter production time saved (%)** — how much faster a Risala-assisted newsletter is to produce vs. doing it manually.
+- **Target:** [CONFIRM exact number with Zak — e.g. "cut production time by 70% by day 30." Don't announce Monday without a real target.]
+- Honesty rule: Friday reports the real measured delta, even if it's worse than hoped.
 
 ## Rules / constraints
-[PENDING — what counts as progress each week; what Zak commits to doing daily/weekly.]
+[PENDING — what counts as weekly progress (e.g. Risala drafts X newsletters/week, time-tracked against manual baseline). Confirm with Zak.]
 
 ## Weekly results log (append every Friday — REAL numbers only)
 _(none yet)_

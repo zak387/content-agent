@@ -38,4 +38,6 @@ Building **Risala** — an AI newsletter-writing agent (see `challenges/risala-b
 - Mentor/agency names are private background; flag before naming any in a published post.
 - Keep client work confidential unless Zak has explicitly cleared it (Kyle Fitzgerald / Clean Kitchen Nutrition results ARE cleared).
 - Avoid off-brand / unrelated topics — stay in the lanes (email/newsletters, building with AI; adjacent creator monetization/info products).
-- [Round 4 follow-up pending — confirm stance on: politics, religion, competitors, personal/family details, revenue specifics, the co-founder breakup.]
+- **No religion as a topic** — but spirituality-as-a-business-mindset (per Omar's influence) is fine.
+- **Never name or take shots at competitors / other agencies.**
+- Politics and revenue/personal details weren't restricted, but default to discretion. Keep the Allii co-founder breakup high-level — never name or blame the other person.

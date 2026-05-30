@@ -31,7 +31,10 @@ The `scrub-ai-tells` skill enforces this list. Add to it whenever a tell slips t
 ## Off-limits in published posts (hard rules)
 - ⛔ Never name **Lululemon, AG1, Nestlé** (previous agencies' clients, not Zak's).
 - Don't name mentors/agencies/clients publicly without Zak's clearance (Kyle Fitzgerald / Clean Kitchen Nutrition IS cleared).
+- **No religion as a topic** (spirituality-as-a-business-mindset is fine).
+- **Never name or take shots at competitors / other agencies.**
+- Keep the Allii co-founder breakup high-level — never name or blame the other person.
 - Stay in-lane; no off-brand/unrelated topics.
 
 ## Operator's personal no-list
-[NEEDS MORE — Round 4 follow-up pending on topics to avoid (politics/religion/competitors/etc.).]
+- Religion as a topic; competitor call-outs. (Add more as they come up.)

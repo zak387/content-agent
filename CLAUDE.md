@@ -70,8 +70,9 @@ Adjacent (use sparingly, in service of the two above): creator economy, creator 
 - ✅ Active challenge defined: building **Risala** (AI newsletter agent) — `challenges/risala-build.md` (needs measurable goal + deadline before Monday).
 - ⏳ No real posts drafted yet. No regression examples saved yet.
 - 🔲 Viral sourcing is web search + LunarCrush + manual paste. LinkedIn API/MCP not wired (future phase).
-- 🔲 **Lead magnets still not inventoried** — `clients/zak/lead-magnets.md` is a template (Round 4 Q18 pending).
-- 🔲 Off-limits: never name Lululemon/AG1/Nestlé. Remaining topic-avoidance list pending Zak's Round 4 follow-up.
+- ✅ **First lead magnet chosen:** subject-line swipe file (to build) — `clients/zak/lead-magnets.md`.
+- ✅ Off-limits set: never name Lululemon/AG1/Nestlé; no religion-as-topic; never name/attack competitors; keep co-founder breakup high-level.
+- 🔲 Risala challenge needs its exact target % (production time saved) before Monday's announcement.
 
 ## Workflow rules for working ON this agent
 

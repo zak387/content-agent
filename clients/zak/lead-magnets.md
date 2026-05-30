@@ -12,8 +12,14 @@ For each magnet:
 - **Lane** — email | building-with-AI | creator
 
 ## Inventory
-[PENDING — capture in tastemaker interview Round 4, Q18. Ideas to confirm with Zak:
-- Subject-line swipe file (email lane)
-- Newsletter/welcome-sequence template bank (email lane)
-- CTA / offer framework (email lane)
-- "Build X with AI agents" starter prompt pack (building-with-AI lane)]
+### 1. Subject-line swipe file — **FEATURED (build first)**
+- **What it is:** a swipe file of high-performing subject lines with a one-line note on *why each works* (the pattern/mechanism).
+- **Who it's for:** creators/founders who want better email open rates.
+- **Status:** to build — lightweight, fast. Pull real, in-lane examples; never invent performance numbers.
+- **Claim mechanism:** comment a keyword → DM, or a link. (Confirm with Zak at draft time.)
+- **Lane:** email.
+
+### Future ideas (not selected yet — propose to Zak when relevant)
+- Welcome/nurture sequence template (email)
+- Newsletter monetization checklist (email/creator)
+- AI-build / Risala-adjacent prompt pack (building-with-AI)
