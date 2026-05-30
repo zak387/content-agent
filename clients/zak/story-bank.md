@@ -61,10 +61,19 @@
   - Not everyone can land sponsors for their newsletter.
 - **Entrepreneurship:** it takes **outsized inputs to get outsized returns** — and even then you need a lot, including the **right relationships.** It's a genuinely hard game to pull off.
 
+## Personal texture, values & quirks (warmth for stories + re-intro)
+- **Fiercely proud of Morocco**, especially Moroccan food — genuinely believes it's the best and most diverse cuisine in the world ("fight me if you want"). National pride is a real part of his identity.
+- **Pastilla (b'stilla)** is his example of this: a celebration dish eaten only ~2–3 times a year, when guests or far-away family (e.g. an auntie visiting from Europe) come over. It's round and communal — everyone eats from the same dish — so it stands for **family, togetherness, and ceremony.** Theme he draws out: scarcity → gratitude → "make the most of it."
+- **Running debate with co-founder Ziad:** fish pastilla (savory — Zak's side) vs. chicken pastilla (sweet — Ziad's side). A charming, real recurring bit.
+- **Motto he lives by:** Viktor Frankl — *"He who has a why can bear almost any how."* Purpose/mission over circumstance.
+- **Favorite film:** *The Book of Eli* (Denzel Washington, Gary Oldman). Resonates because of the protagonist's **unshakable sense of mission** — a man called to a purpose who won't stop despite every obstacle. Maps onto Zak's own drive and the Frankl quote.
+- **Core values surfacing across answers:** purpose-driven, conviction, perseverance toward a destination, protectiveness of his people, gratitude rooted in modest beginnings.
+
 ---
 ### Story angles ready to write (Thursday candidates)
 1. The breadwinner kid who refused the orthodox path (origin → why email/building).
 2. Shutting down MPWR — the "skin in the game" lesson.
 3. Allii's collapse — non-technical founder + co-founder breakup → why he now builds with AI.
 4. "Don't treat your business like a baby" — sunk cost + Dunning-Kruger.
-5. What working under Suhit/Samba/Aditya actually taught him (mentor lessons).
+5. What working under Suhit / Sambhav / Aditya actually taught him (mentor lessons).
+6. "He who has a why can bear almost any how" — purpose as the thing that carried him off the orthodox path (ties to The Book of Eli).
