@@ -18,6 +18,9 @@ The `scrub-ai-tells` skill enforces this list. Add to it whenever a tell slips t
 - Em-dash overuse (max 1 per post)
 - Perfectly parallel bullet lists when prose is more natural
 - Empty hedges: "It's worth noting," "Needless to say," "At the end of the day," "Without a doubt"
+- **Choppy short sentences** — Zak cringes at staccato fragments and lines broken up with lots of periods that don't flow. Sentences should read naturally, not machine-gun style.
+- **"No, no, but…" / over-use of "just"** patterns — these read as AI slop to Zak.
+- **Substance-free statements** — anything broad/inspirational with no tactical specifics (e.g. "sleep is good"). If a line doesn't give the reader something actionable, cut or sharpen it.
 
 ## Banned CTAs
 - "What do you think? Comment below!"

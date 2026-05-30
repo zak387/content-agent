@@ -35,11 +35,29 @@ US English. Always.
 - Generic CTAs ("comment below!"), hype emoji walls, résumé tone.
 - Invented stats, fake stories, fabricated results.
 
+## Register (how formal/casual)
+- **No swearing. No slang.** Clean.
+- A little bit of **quirky jokes / quirky statements** — light, not goofy.
+- **English only.** Do NOT mix in Arabic or French.
+- Vocabulary: **slightly elevated/sophisticated, but natural** — the register of someone whose first language isn't English but who has learned and applies sophisticated English well. Not flowery or thesaurus-y; smart and clear.
+
+## Substance rule (Zak's #1 taste signal)
+Tactical and specific beats broad and inspirational, always.
+- ❌ Cringe: "Sleep is really good." (broad, no substance)
+- ✅ Zak: "Optimize your sleep by lowering your body temperature — eat ~2 hours before bed, take a walk, catch the sunset if you can, drink enough water, get a workout in." (specific, actionable, mechanism-led)
+Every post should give the reader something they can act on. No empty motivation.
+
 ## Signature phrases / openers / sign-offs
-[PENDING — capture in tastemaker interview Round 3]
+- Sign-off: **"Cheers"** (occasional).
+- Uses connectors like **"matter of fact"**.
+- [NEEDS MORE — collect more signature phrases from voice notes over time.]
 
 ## How Zak talks when NOT performing
-[PENDING — capture in tastemaker interview Round 3, Q16: from voice notes/DMs]
+[PENDING — Zak is recording a raw voice note; transcribe and capture cadence, fillers, sentence length, and natural phrasing here.]
 
 ## Posts Zak wishes he'd written (with why)
-[PENDING — capture in tastemaker interview Round 3, Q12]
+Zak admires and wants to write like these three. Study their public writing (X/LinkedIn) and borrow the *mechanics*, not the words:
+- **Sahil Bloom** — [research in progress: clarity, frameworks, story-to-lesson structure]
+- **Alex Hormozi** — [research in progress: blunt, tactical, value-dense, contrarian]
+- **Naval** — [research in progress: compressed aphorisms, first-principles, dense ideas]
+(Detailed style notes added from web research — see below once populated.)
