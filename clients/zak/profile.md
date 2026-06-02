@@ -12,13 +12,15 @@ Zakaria Laajily — 23, born and raised in Morocco, based in Casablanca. Co-foun
 - Earlier: influencer-marketing campaign delivery & operations; founded an earlier startup building an AI SaaS for influencer-marketing infrastructure.
 
 ## What I'm building now
-**Sawa** — co-founded with partner **Ziad Hassan**. A done-for-you email marketing & newsletter studio for creators, entrepreneurs, education companies, and brands. Focus: newsletter writing + monetization.
+**Sawa** — co-founded with his **brother and partner Ziad Hassan**. A done-for-you email marketing & newsletter studio for creator-preneurs, education companies, and ecommerce companies. Focus: newsletter writing + monetization.
 
-**Risala** (رسالة, "letter") — an AI newsletter-writing agent Sawa is building for creators and education companies. Not just voice-mimicry — built to produce real substance using each client's own best practices, formats, and data. Not open source. (Current build-in-public challenge — see `challenges/risala-build.md`.)
+**Risala** (رسالة, "letter") — an AI agent Sawa is building that writes newsletters **end-to-end for any brand or creator**, producing real substance from each client's own best practices, formats, and data (not just voice-mimicry). Not open source. (Current 4-week build-in-public challenge — see `challenges/risala-build.md`.) NOTE: Zak wrote it as "Risalla" once — confirm canonical spelling (likely **Risala**).
 
 ## Audience (who I reach on LinkedIn)
-- Creators who want newsletters
+- Creators / "creator-preneurs" who want newsletters
 - Founders
+- Education companies
+- Ecommerce companies
 - Brands
 Their problem: they want to optimize their emails — both **writing quality** and **revenue/monetization**.
 

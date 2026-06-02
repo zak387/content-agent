@@ -23,6 +23,8 @@
 ### 2. MPWR — his boutique agency
 - Helped creators monetize through **info products.**
 - Worked with thought leaders across: real estate, spirituality, personal improvement/transformation, and food & beverage (F&B).
+- **Result:** helped a client make **5 figures consistently** from his course.
+- Learned client management — dealing with different personalities and stakeholders.
 - **Shut it down end of 2024.**
 - **Lesson:** any business with **overreliance on one party who doesn't have much skin in the game** is a recipe for a failing business.
 
@@ -32,7 +34,7 @@
 - (Directly feeds the "building with AI" lane — a real, honest building-in-public story.)
 
 ### 4. Sawa (current) — see profile.md
-- Co-founded with **Ziad Hassan.** Done-for-you email & newsletter studio.
+- Co-founded with his **brother and partner Ziad Hassan.** Done-for-you email & newsletter studio (creator-preneurs, education + ecommerce companies).
 - Proof: Kyle Fitzgerald / Clean Kitchen Nutrition — newsletter **+110% (11k→20k)**, **~300 ebook sales.**
 
 ## People I learned from (mentors)
@@ -41,7 +43,7 @@
 - **Aditya Mahapatra** — co-founder of **Augmentum Media** — taught **sales.**
 - **Omar DaCosta-Shahid** — founder of **"Spirituality of Business"** and co-founder of **M.I.N. (Muslim Influencer Network)**; ex-journalist, Forbes 30 Under 30. Taught **integrating spirituality into business.**
 - **Saiful Islam** — co-founder of **M.I.N. (Muslim Influencer Network)** — taught **confidence.**
-- **Ziad Hassan** — current business partner (Sawa).
+- **Ziad Hassan** — his **brother and business partner** (Sawa).
 
 ## Failures / hard lessons
 - **Two startups that didn't work** (MPWR, Allii).
@@ -51,6 +53,7 @@
 
 ## Wins (with real numbers where possible)
 - **Kyle Fitzgerald / Clean Kitchen Nutrition:** grew newsletter **110% (11,000 → 20,000 subscribers)**, ~**300 sales** of a low-ticket ebook.
+- **MPWR client:** helped them make **5 figures consistently** from their course.
 - **The identity win:** a kid from Morocco who took the unorthodox path now works with real founders and genuinely thinks of himself as an entrepreneur. Not cashing out or earning big *yet* — but learning a ton given his circumstances and limited resources.
 
 ## Contrarian beliefs
