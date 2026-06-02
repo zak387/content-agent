@@ -5,11 +5,20 @@ Find a currently-trending post or angle in Zak's lanes (email/funnels, building 
 
 ## Input
 - Zak's lanes from `content-strategy.md`.
-- Research sources (in priority order):
-  1. **LunarCrush MCP** — `search`, `topic_posts`, `keyword_posts` for top X/Twitter / Reddit posts by engagement on lane keywords.
-  2. **WebSearch** — LinkedIn trending posts/angles + general "what's blowing up this week."
-  3. **Manual paste** — posts Zak saved.
+- Research sources (in priority order for v1):
+  1. **Manual paste (PRIMARY for LinkedIn)** — Zak drops in 3–5 viral LinkedIn posts he's saved from his niche. Highest-quality signal; the only reliable LinkedIn source until the scraper API is wired.
+  2. **LunarCrush MCP** — `search`, `topic_posts`, `keyword_posts` for top X/Twitter / Reddit posts by engagement on lane keywords. Covers the Twitter side of the niche (NO LinkedIn).
+  3. **WebSearch** — context, fact-checking, and surfacing some indexed LinkedIn posts/angles (not ranked by engagement).
 - `voice-profile.md`.
+
+### Phase 2 (future) — LinkedIn scraper/data API
+Zak has a LinkedIn scraper/data API (Apify / Bright Data / RapidAPI / Phantombuster-type). NOT wired yet — start manual. To wire it, capture from Zak:
+- Provider + endpoint(s) and how it's called (REST? MCP? CLI?).
+- Auth (key/header) and where the secret lives (env var — never commit it).
+- Search inputs it supports: keyword, hashtag, profile, date range.
+- What it returns: post text, author, engagement counts, post URL, timestamp.
+- Rate limits / cost per call.
+Once known, add a step 0 to Stage 1 that queries it for lane keywords and ranks by engagement, with manual paste as fallback. NOTE: LinkedIn scraping is ToS-gray — confirm Zak accepts that before automating.
 
 ## Output
 - Draft → `clients/zak/drafts/<week>/tue-viral.md`.
@@ -17,7 +26,7 @@ Find a currently-trending post or angle in Zak's lanes (email/funnels, building 
 - Usually short-to-medium, punchy.
 
 ## Process
-1. **Stage 1 — Find + pick.** Pull 3–5 trending posts/angles in-lane (use LunarCrush + WebSearch; ask Zak for pastes if thin). For each: link, engagement signal, and the *mechanic* that made it work (format, contrarian take, list, story arc). Recommend one. → CHECKPOINT.
+1. **Stage 1 — Find + pick.** Gather 3–5 trending posts/angles in-lane: **ask Zak to paste saved LinkedIn posts first**, supplement with LunarCrush (Twitter) + WebSearch. For each: link, engagement signal, and the *mechanic* that made it work (format, contrarian take, list, story arc). Recommend one. → CHECKPOINT.
 2. **Stage 2 — Format.** Map the chosen mechanic to Zak's topic. Propose the structure (the pattern to borrow). → CHECKPOINT.
 3. **Stage 3 — Draft.** Write an ORIGINAL post using the mechanic, with Zak's own example/take. Cite nothing fake. → CHECKPOINT.
 4. **Stage 4 — Hooks + scrub.** Run `hooks.md` then `scrub-ai-tells.md`. → CHECKPOINT.

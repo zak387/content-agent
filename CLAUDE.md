@@ -69,7 +69,7 @@ Adjacent (use sparingly, in service of the two above): creator economy, creator 
 - ✅ **Tastemaker interview done (Rounds 1–4):** `profile.md`, `story-bank.md`, `voice-profile.md` populated with real bio, story, cadence, and personal texture. A few minor `[verify]`/`[NEEDS MORE]` tags remain.
 - ✅ Active challenge defined: building **Risala** (AI newsletter agent) — `challenges/risala-build.md` (needs measurable goal + deadline before Monday).
 - ⏳ No real posts drafted yet. No regression examples saved yet.
-- 🔲 Viral sourcing is web search + LunarCrush + manual paste. LinkedIn API/MCP not wired (future phase).
+- 🔲 Tuesday viral sourcing (v1): **manual paste = primary for LinkedIn**, + LunarCrush (Twitter/X) + web search. Zak has a LinkedIn scraper/data API to wire in Phase 2 (no official LinkedIn API can search viral posts).
 - ✅ **First lead magnet chosen:** subject-line swipe file (to build) — `clients/zak/lead-magnets.md`.
 - ✅ Off-limits set: never name Lululemon/AG1/Nestlé; no religion-as-topic; never name/attack competitors; keep co-founder breakup high-level.
 - 🔲 Risala challenge needs its exact target % (production time saved) before Monday's announcement.
