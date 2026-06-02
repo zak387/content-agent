@@ -49,6 +49,8 @@ Do NOT regenerate blind on vague feedback. Present the draft, then ask the opera
 
 Then inject the SELECTED items + their concrete fix directly into your next attempt, and tell the operator what you changed in response. Each iteration must be meaningfully different from the last — iterate toward right, don't resample.
 
+**Capture the feedback (learn-voice OBSERVE step):** whenever Zak edits a draft or gives feedback, append an entry to `clients/<client>/voice-learning-log.md` per `skills/learn-voice.md` §1 (before → after snippet, his reason, the voice implication). A clean approval with no change is logged as `no_change`. This is how the agent gets better at his voice over time.
+
 If the operator approves: save the draft to the week folder and move on.
 
 ## 3. Save + summarize

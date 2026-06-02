@@ -1,6 +1,14 @@
-# Voice Profile — Zak
+# Voice Profile — Zak  ·  v1.0
 
-> The source of truth for how Zak sounds. The `scrub-ai-tells` skill enforces this.
+> The source of truth for how Zak sounds. The `scrub-ai-tells` skill enforces this. The `learn-voice` skill updates it from Zak's edits (see "Learned rules" at the bottom).
+
+## Voice dimensions (1–10, auto-calibrated by learn-voice)
+Starting calibration — `learn-voice` nudges these as edits accumulate.
+- **Formality:** 5/10 (professional but casual; no slang, no swearing)
+- **Technical depth:** 6/10 (tactical and specific, still accessible)
+- **Tone (1 warm ↔ 10 blunt):** 4/10 (warm mentor, with bold convictions)
+- **Conciseness (1 expansive ↔ 10 terse):** 5/10 (flowing sentences; length varies by pillar)
+- **Expressiveness (1 plain ↔ 10 vivid):** 7/10 (sensory detail; ties ideas to meaning)
 
 ## Persona
 **Warm mentor / builder-in-public.** Generous, transparent, shares wins and failures openly. Talks like a peer who's a few steps ahead, not a guru on a stage.
@@ -81,3 +89,8 @@ Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechan
 - ❌ Naval-style **pure abstraction/platitudes** with no proof — Zak must anchor any aphorism to a real result or story from the bank.
 
 **Net:** write with Hormozi's discipline and Sahil's structure, Naval's compression of the core idea — but in Zak's own flowing, warm, non-choppy sentences, always tactical, never hyped.
+
+## Learned rules (auto-captured by learn-voice)
+> P0 = auto-applied (pattern seen in 2+ edits). P1 = applied only with Zak's OK. Each rule cites its evidence + date. Source observations live in `voice-learning-log.md`.
+
+_(none yet — populated as Zak edits his drafts.)_

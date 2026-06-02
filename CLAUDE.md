@@ -29,7 +29,7 @@
 | Thu | Personal story | `pillar-thursday-personal-story.md` |
 | Fri | Challenge update / output of the week | `pillar-friday-challenge-update.md` |
 
-Every draft also passes through two shared skills: `hooks.md` (first-line generation) and `scrub-ai-tells.md` (voice check).
+Every draft also passes through two shared skills: `hooks.md` (first-line generation) and `scrub-ai-tells.md` (voice check). A third shared skill, `learn-voice.md`, captures Zak's edits/feedback into `voice-learning-log.md` and promotes recurring patterns into `voice-profile.md` (P0 auto-applied; run `/learn-voice` to extract). This is the self-improving voice loop.
 
 ## Brand lanes (Zak's center of gravity)
 
