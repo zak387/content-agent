@@ -7,8 +7,8 @@ Find a currently-trending post or angle in Zak's lanes (email/funnels, building 
 - Zak's lanes from `content-strategy.md`.
 - Research sources (in priority order for v1):
   1. **Manual paste (PRIMARY for LinkedIn)** — Zak drops in 3–5 viral LinkedIn posts he's saved from his niche. Highest-quality signal; the only reliable LinkedIn source until the scraper API is wired.
-  2. **LunarCrush MCP** — `search`, `topic_posts`, `keyword_posts` for top X/Twitter / Reddit posts by engagement on lane keywords. Covers the Twitter side of the niche (NO LinkedIn).
-  3. **WebSearch** — context, fact-checking, and surfacing some indexed LinkedIn posts/angles (not ranked by engagement).
+  2. **LunarCrush MCP** — `search`, `topic_posts`, `keyword_posts` for top X/Twitter / Reddit posts by engagement. ⚠️ **Currently GATED — requires a paid LunarCrush subscription** (returns "subscription required" otherwise). Don't rely on it until Zak upgrades.
+  3. **WebSearch** — strong for trend *intelligence* (algorithm shifts, best formats) and for mining curated "viral post example" roundups to reverse-engineer mechanics. CANNOT return a live engagement-ranked feed of this week's niche posts.
 - `voice-profile.md`.
 
 ### Phase 2 (future) — LinkedIn scraper/data API

@@ -58,7 +58,7 @@ Adjacent (use sparingly, in service of the two above): creator economy, creator 
 
 ## Available tools / data sources
 
-- **LunarCrush MCP** (social analytics): top posts by engagement on X/Twitter, TikTok, YouTube, Reddit, Instagram, news. Use for Tuesday viral research (X/Twitter). NO LinkedIn coverage.
+- **LunarCrush MCP** (social analytics): top posts by engagement on X/Twitter, TikTok, YouTube, Reddit, Instagram, news. ⚠️ Requires a PAID subscription (currently gated). NO LinkedIn coverage.
 - **WebSearch**: LinkedIn trends, general topic research, fact-checking.
 - **Manual paste**: operator pastes posts they've saved; agent analyzes/adapts.
 - Also connected (not yet used by pipeline): Notion, Gmail, Google Drive, Miro.
