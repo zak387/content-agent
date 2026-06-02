@@ -12,7 +12,7 @@ Find a currently-trending post or angle in Zak's lanes (email/funnels, building 
 - `voice-profile.md`.
 
 ### Phase 2 (future) — LinkedIn scraper/data API
-Zak has a LinkedIn scraper/data API (Apify / Bright Data / RapidAPI / Phantombuster-type). NOT wired yet — start manual. To wire it, capture from Zak:
+Zak has a LinkedIn scraper/data API (Apify / Bright Data / RapidAPI / Phantombuster-type). NOT wired yet — start manual. **Researched Apify options + wiring plan: see `integrations/linkedin-apify.md`** (recommended actor: `benjarapi` LinkedIn Post Search, $3/1k posts, no cookies, past-week filter). To wire it, capture from Zak:
 - Provider + endpoint(s) and how it's called (REST? MCP? CLI?).
 - Auth (key/header) and where the secret lives (env var — never commit it).
 - Search inputs it supports: keyword, hashtag, profile, date range.
