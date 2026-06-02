@@ -16,18 +16,33 @@ Cost is negligible: ~200 posts/week ≈ **$0.30–$1.00/week**.
 ## What the actors return (enough to run the viral skill)
 post text, author (name/headline/profile), engagement (reactions by type, comments, reposts), post URL, timestamp, media. → Rank by engagement, hand top 3–5 to Stage 1 of `pillar-tuesday-viral.md`.
 
-## How to wire it (two paths)
-1. **Apify MCP server** (cleanest, matches how LunarCrush is connected): add the Apify MCP, then the agent calls the actor as a tool. No code in this repo.
-2. **REST call** with `run-sync-get-dataset-items` (returns JSON directly):
-   - Endpoint: `POST https://api.apify.com/v2/acts/<actor-id>/run-sync-get-dataset-items?token=$APIFY_TOKEN`
-   - Body: `{ "keyword": "...", "sortType": "date_posted", "maxPosts": 100 }` (per actor's input schema)
-   - Token lives in env var **`APIFY_TOKEN`** — never commit it.
+## Wiring — CONFIGURED 2026-06-02 (Apify MCP)
+Chosen path: **Apify MCP server**, configured in `/.mcp.json`:
+```json
+{ "mcpServers": { "apify": {
+  "command": "npx",
+  "args": ["-y", "@apify/actors-mcp-server", "--actors", "5QnEH5N71IK2mFLrP"],
+  "env": { "APIFY_TOKEN": "${APIFY_TOKEN}" }
+}}}
+```
+- Actor exposed: **`5QnEH5N71IK2mFLrP`** (Zak's chosen LinkedIn post-search actor; confirm its display name once connected).
+- The token is read from env var **`APIFY_TOKEN`** — referenced, never hardcoded. `.env` is gitignored; `.env.example` documents it.
+- ⚠️ **MCP servers load at session START.** The Apify tools (`mcp__apify__*`) appear on the NEXT session after `APIFY_TOKEN` is set in the environment — not mid-session.
 
-## To proceed, Zak provides
-- An **Apify account + API token** (free tier exists; pay-as-you-go for actor runs).
-- Choice of actor (default: `benjarapi`).
-- Confirmation he accepts that **LinkedIn scraping is against LinkedIn's ToS** (gray area; no-cookie actors reduce but don't eliminate risk).
-- The exact lane keywords to query (e.g. "email marketing", "newsletter growth", "cold email", "AI agents", "vibe coding", "building in public").
+### Setting the token securely (do NOT paste it in chat or commit it)
+- In the Claude Code web environment: add `APIFY_TOKEN` as an environment variable / secret in the environment's settings.
+- Or locally: copy `.env.example` → `.env` (gitignored) and put the token there.
+- If a token was ever pasted in chat, **rotate it** in Apify Console → Settings → Integrations.
+
+### Alternative path — REST (no MCP)
+- `POST https://api.apify.com/v2/acts/5QnEH5N71IK2mFLrP/run-sync-get-dataset-items?token=$APIFY_TOKEN`
+- Body per the actor's input schema (keyword, sort, maxPosts). Returns dataset items as JSON.
+
+## To proceed (remaining)
+- Set `APIFY_TOKEN` in the environment (rotated token).
+- Confirm the actor's input schema field names (keyword/sort/date) once connected, so the Tuesday skill calls it correctly.
+- Accept that **LinkedIn scraping is against LinkedIn's ToS** (gray area).
+- Provide lane keywords (e.g. "email marketing", "newsletter growth", "cold email", "AI agents", "building in public").
 
 ## Caveats
 - Engagement counts are "as-rendered" and can lag real-time.
