@@ -105,3 +105,5 @@ Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechan
 - **P1 (proposed) — "P.S." device** to tuck the most exciting hook at the end.
 - **P1 (proposed) — Natural rule-of-three idioms** ("the good, the bad, and the ugly") are fine; only forced AI triplets banned.
 - **P1 (proposed) — Promise-style CTA** (a bulleted "what I'll share") as an alternative to a one-line CTA.
+- **P1 (proposed, entry #2) — Epistemic humility on hot takes:** add a "take this with a grain of salt / do your own research and testing" caveat rather than stating opinions as gospel.
+- **P1 (proposed, entry #2) — Hype-deflation contrarian framing:** when something's overhyped, ground it with "this isn't actually new" instead of piling on.
