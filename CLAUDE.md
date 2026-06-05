@@ -11,6 +11,7 @@
 - **Always write in US English.**
 - **Always pause for human approval at every stage in v1** (topic → format → draft → final). Do not silently continue past a checkpoint.
 - **Always flag low-confidence output.** An unflagged bad draft is worse than no draft. If a stage can't produce something good, say so (see each skill's Failure modes).
+- **Never turn a brain dump straight into a finished post.** First deepen it Socratically — push for specificity, stories, numbers, and the honest stakes — save the operator's answers to `<draft>.raw.md`, THEN draft from that, preserving his verbatim phrasing. Shape his words; don't replace them. (See `skills/deepen-brain-dump.md`.)
 
 ## What this is
 

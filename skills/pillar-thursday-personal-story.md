@@ -12,6 +12,7 @@ Tell one true story from Zak's life/journey — where he grew up, a business he 
 - Long-form, narrative. Tight paragraphs that flow. Warm, builder-in-public.
 
 ## Process
+0. **Stage 0 — Deepen first (if a brain dump is given).** Do NOT draft from a raw dump. Run `skills/deepen-brain-dump.md`: ask Socratic questions for specificity, stories, numbers, and the honest stakes; save answers to `<day>-personal-story.raw.md`. Only draft once it's rich.
 1. **Stage 1 — Pick the story + the point.** Choose ONE story from the bank and the single insight it earns. A story without a point is a diary entry. → CHECKPOINT.
 2. **Stage 2 — Format.** Structure: in-scene hook (drop us into the moment) → what happened → the turn → the lesson → how it connects to the reader's world. → CHECKPOINT.
 3. **Stage 3 — Draft.** Use concrete sensory/specific detail from the bank. One story, one point. Don't moralize too early. → CHECKPOINT (structured feedback).
