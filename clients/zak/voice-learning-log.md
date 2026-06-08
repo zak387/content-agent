@@ -32,3 +32,13 @@ High-signal: Zak replaced the agent's positioning draft with his own full re-int
 - Addition: contrarian deflation of the multi-agent-spawning/critique hype — "that's always been on the table; running stochastic experiments and a few paths to the same result isn't new."
 - Implication: Zak likes **epistemic humility** (tells readers to verify, not trust the hype) AND **grounded contrarian takes that deflate hype** ("this isn't actually new"). Matches his interview contrarian beliefs.
 - Confidence: P1 (humility caveat — watch for repeat); the hype-deflation contrarian framing aligns with his established voice (lean P0).
+
+### 2026-06-02 · risalla-challenge (build-in-public) · sample (Zak's own writing, grammar-cleaned)
+Full sample saved in `voice-samples/2026-06-02_risalla-challenge.md`. Voice traits observed:
+- **Build-in-public challenge framing:** "my co-founder told me I can't → hell yeah I can → I'll prove it in public." (Also in the re-intro P.S. → corroborated, P0.)
+- **Self-aware parenthetical asides:** "(while I know little about building AI agents)". (Also in voice notes → P0.)
+- **Defines jargon inline for the reader:** "creator-preneurs (influencers who want to make money outside of partnerships)."
+- **Structured experiment/result breakdowns** for tactical posts: methodology → numbered variables → Experiment/Result pairs → what he settled on.
+- **Casual markers:** ":)", "hell yeah," sign-off "keep an eye out," gives the product personality ("him/it/her").
+- **Canonical spelling resolved:** the agent is **Risalla** (رسالة).
+- Implication: confirms energetic/casual/build-in-public voice; this is the template for Friday challenge-update + Monday challenge posts.

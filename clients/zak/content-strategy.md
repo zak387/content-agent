@@ -31,7 +31,7 @@ Five posts per week, one per weekday. Run via `/run-content-week`.
 Warm mentor / builder-in-public. Generous, transparent, specific. Wins AND failures.
 
 ## Active challenge (this cycle)
-Building **Risala** — an AI newsletter-writing agent (see `challenges/risala-build.md`).
+Building **Risalla** — an AI newsletter-writing agent (see `challenges/risala-build.md`).
 
 ## Off-limits (hard rules for published posts)
 - **NEVER name Lululemon, AG1, or Nestlé.** These were *previous companies'/agencies'* clients, NOT Zak's — he does not want to reference them. Same caution for any other Augmentum/Saulderson client.

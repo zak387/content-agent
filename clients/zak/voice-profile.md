@@ -1,4 +1,4 @@
-# Voice Profile — Zak  ·  v1.1
+# Voice Profile — Zak  ·  v1.2
 
 > The source of truth for how Zak sounds. The `scrub-ai-tells` skill enforces this. The `learn-voice` skill updates it from Zak's edits (see "Learned rules" at the bottom).
 
@@ -57,9 +57,9 @@ Tactical and specific beats broad and inspirational, always.
 Every post should give the reader something they can act on. No empty motivation.
 
 ## Signature phrases / openers / sign-offs
-- Sign-off: **"Cheers"** (occasional).
-- Uses connectors like **"matter of fact"**.
-- [NEEDS MORE — collect more signature phrases from voice notes over time.]
+- Sign-off: **"Cheers"** (occasional) and **"keep an eye out"** (for serial/build-in-public posts).
+- Uses connectors like **"matter of fact"**; casual markers **"hell yeah"** and an occasional **":)"**.
+- Gives products/ideas personality (e.g. naming the agent "him/it/her").
 
 ## How Zak talks when NOT performing
 Captured from raw voice notes (Moroccan food + The Book of Eli). This is his true cadence — match it:
@@ -107,3 +107,9 @@ Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechan
 - **P1 (proposed) — Promise-style CTA** (a bulleted "what I'll share") as an alternative to a one-line CTA.
 - **P1 (proposed, entry #2) — Epistemic humility on hot takes:** add a "take this with a grain of salt / do your own research and testing" caveat rather than stating opinions as gospel.
 - **P1 (proposed, entry #2) — Hype-deflation contrarian framing:** when something's overhyped, ground it with "this isn't actually new" instead of piling on.
+
+**From entry #3 (2026-06-02, Risalla challenge post):**
+- **P0 — Build-in-public challenge framing.** "Someone said I can't → hell yeah I can → I'll prove it in public." (Corroborated by the re-intro P.S.)
+- **P0 — Self-aware parenthetical asides.** e.g. "(while I know little about building AI agents)." (Corroborated by voice notes.)
+- **P1 (proposed) — Define jargon inline** for the reader (e.g. "creator-preneurs (influencers who want to make money outside of partnerships)").
+- **P1 (proposed) — Structured experiment/result breakdowns** for tactical posts (methodology → numbered variables → Experiment/Result → what he settled on).
