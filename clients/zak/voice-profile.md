@@ -113,3 +113,9 @@ Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechan
 - **P0 — Self-aware parenthetical asides.** e.g. "(while I know little about building AI agents)." (Corroborated by voice notes.)
 - **P1 (proposed) — Define jargon inline** for the reader (e.g. "creator-preneurs (influencers who want to make money outside of partnerships)").
 - **P1 (proposed) — Structured experiment/result breakdowns** for tactical posts (methodology → numbered variables → Experiment/Result → what he settled on).
+
+**From entry #4 (2026-06-10, lead-magnet post):**
+- **P0 — Result-led numeric hook** (open with the concrete number/outcome). Corroborated by the re-intro's Kyle hook.
+- **P1 (proposed) — Transparent numbered process breakdown** with a human-in-the-loop refrain ("We decide / We pick / We approve").
+- **P1 (proposed) — Lead-magnet CTA pattern:** teach real value in-post, then "Comment 'X' and I'll send it over."
+- **P1 (proposed) — "Here's the best part:" mid-post re-hook.**

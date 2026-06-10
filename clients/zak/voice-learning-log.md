@@ -42,3 +42,12 @@ Full sample saved in `voice-samples/2026-06-02_risalla-challenge.md`. Voice trai
 - **Casual markers:** ":)", "hell yeah," sign-off "keep an eye out," gives the product personality ("him/it/her").
 - **Canonical spelling resolved:** the agent is **Risalla** (رسالة).
 - Implication: confirms energetic/casual/build-in-public voice; this is the template for Friday challenge-update + Monday challenge posts.
+
+### 2026-06-10 · wed-lead-magnet (newsletter growth + agent) · sample (Zak's own writing, grammar-cleaned)
+Full sample in `voice-samples/2026-06-10_lead-magnet-naming.md`. Voice traits:
+- **Result-led numeric hook:** "We grew a creator's newsletter from 11,000 to 20,000 subs in less than 3 months, without using ads." (Corroborated by the re-intro's Kyle hook → P0.)
+- **Transparent, numbered process breakdown** with bold lead-ins, plus a human-in-the-loop refrain ("We decide." / "We pick." / "We approve."). Shows the work; very build-in-public.
+- **"Here's the best part:" reveal** to re-hook mid-post.
+- **Casual diction:** "give a damn," "churn out," "truth be told."
+- **Lead-magnet CTA pattern:** teach real value in-post, then "Comment 'X' and I'll send it over."
+- Implication: for tactical/value posts, lead with the concrete result, show the actual process, keep the human-in-the-loop refrain, close with a comment-to-get CTA.
