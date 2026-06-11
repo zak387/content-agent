@@ -22,3 +22,13 @@ Detachment isn't *not caring* about outcomes (I'm a breadwinner; they matter). I
 - A concrete beat from the coaching-offer flop (the scene).
 - The fear named plainly (what the flop makes him believe about himself).
 - Which failure mode is his: bailing too early vs. clinging too long.
+
+### Round 2 (verbatim)
+1. **The scene / the work that went in:** "We put a lot of work into: market research, a bunch of surveys, complex email funnels, complex marketing funnels for this coaching offer, structuring the coaching itself, creating the slides for it. But then it massively flopped for a big audience. We didn't land on product-market fit for the offer with that particular audience. We tried to give it a chance by doing more things and doing different things differently, but it still didn't work. That was a big disappointment for the work we put in."
+3. **His real failure mode (key insight):** "The thing I'm working on is to NOT bail too early on something. **Success and failure have the same path. Failure is just an earlier exit** — and that's something I'm trying to avoid and discern."
+2. (Fear/self-belief — not named; respect the boundary. The post can leave it as subtext.)
+
+### Center of the post (the tension to hold)
+Detach your **self-worth** from the outcome so a flop doesn't wreck you — but don't let that detachment become an excuse to **bail too early**. "Success and failure have the same path; failure is just an earlier exit." The skill is discerning when "this isn't working" is real vs. just disappointment talking.
+
+**STATUS: rich enough to draft.** Constraints: keep Zak's verbatim phrasing and rhythm, minimal smoothing; feature the "same path / earlier exit" line; don't force the self-belief/fear if he didn't say it.
