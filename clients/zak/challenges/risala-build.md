@@ -24,4 +24,9 @@ Lands both primary lanes simultaneously: **building with AI (vibe coding)** + **
 [PENDING — what counts as weekly progress (e.g. Risalla drafts X newsletters/week, time-tracked against manual baseline). Confirm with Zak.]
 
 ## Weekly results log (append every Friday — REAL numbers only)
-_(none yet)_
+### 2026-06-15 (Monday update)
+- Produced a decent **V1 writer** for one creator, using his old content + anti-AI rules.
+- Curated and analyzed a great writer's corpus (how he opens sentences, uses evidence/humor, delivers info, transitions) and added the findings as agent instructions.
+- Re-architected: from a single markdown file + Python script → a set of skill files + an orchestrator agent + Python scripts. Better architecture.
+- Open struggle: **maintaining quality across different profiles/creators.**
+- Context stat: 300k+ emails sent in the last 90 days.

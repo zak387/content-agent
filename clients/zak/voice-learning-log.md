@@ -51,3 +51,13 @@ Full sample in `voice-samples/2026-06-10_lead-magnet-naming.md`. Voice traits:
 - **Casual diction:** "give a damn," "churn out," "truth be told."
 - **Lead-magnet CTA pattern:** teach real value in-post, then "Comment 'X' and I'll send it over."
 - Implication: for tactical/value posts, lead with the concrete result, show the actual process, keep the human-in-the-loop refrain, close with a comment-to-get CTA.
+
+### 2026-06-15 · mon-challenge-update (Risalla) · sample (Zak's own writing, grammar-cleaned)
+Full sample in `voice-samples/2026-06-15_monday-challenge-update.md`. Voice traits (mostly reinforcing prior entries):
+- **Skeptical/contrarian framing on overhype:** "Funny how everyone seems to have cracked the AI usage piece… and I'm honestly skeptical." (Reinforces hype-deflation from entry #2.)
+- **Define what it's NOT:** "not a Claude skill, not a chatbot, not a GPT artifact." (Same move as the AI-native post — now corroborated → P0.)
+- **Credibility/result stat:** "300k emails in the last 90 days." (Reinforces result-led hook, P0.)
+- **Honest build-in-public progress bullets, including an open struggle** ("Still grappling with maintaining quality across profiles"). Doesn't only show wins.
+- **Casual emphasis:** "freaking amazing," "Not ANY copy," "bunch of."
+- **Follow-along CTA** for serial/challenge posts.
+- New proof captured → story bank: 300k+ emails / 90 days.

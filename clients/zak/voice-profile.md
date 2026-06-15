@@ -119,3 +119,9 @@ Zak admires **Sahil Bloom**, **Alex Hormozi**, and **Naval**. Borrow the *mechan
 - **P1 (proposed) — Transparent numbered process breakdown** with a human-in-the-loop refrain ("We decide / We pick / We approve").
 - **P1 (proposed) — Lead-magnet CTA pattern:** teach real value in-post, then "Comment 'X' and I'll send it over."
 - **P1 (proposed) — "Here's the best part:" mid-post re-hook.**
+
+**From entry #5 (2026-06-15, Monday challenge update):**
+- **P0 — Define what it's NOT** before defining what it IS (corroborated across the AI-native + Risalla posts).
+- **P0 — Skeptical/contrarian framing on overhype** ("everyone seems to have cracked it… I'm skeptical") — corroborates entry #2 hype-deflation.
+- **P1 (proposed) — Show open struggles, not just wins** in progress posts ("still grappling with…").
+- **P1 (proposed) — Follow-along CTA** for serial/challenge posts.

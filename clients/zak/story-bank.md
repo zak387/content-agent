@@ -54,6 +54,7 @@
 ## Wins (with real numbers where possible)
 - **Kyle Fitzgerald / Clean Kitchen Nutrition:** grew newsletter **110% (11,000 → 20,000 subscribers)**, ~**300 sales** of a low-ticket ebook.
 - **MPWR client:** helped them make **5 figures consistently** from their course.
+- **Email volume:** sent **300k+ emails in the last 90 days** (across client newsletters) — credibility/scale stat.
 - **The identity win:** a kid from Morocco who took the unorthodox path now works with real founders and genuinely thinks of himself as an entrepreneur. Not cashing out or earning big *yet* — but learning a ton given his circumstances and limited resources.
 
 ## Contrarian beliefs
