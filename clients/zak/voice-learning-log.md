@@ -61,3 +61,12 @@ Full sample in `voice-samples/2026-06-15_monday-challenge-update.md`. Voice trai
 - **Casual emphasis:** "freaking amazing," "Not ANY copy," "bunch of."
 - **Follow-along CTA** for serial/challenge posts.
 - New proof captured → story bank: 300k+ emails / 90 days.
+
+### 2026-W25 · thu-personal-story (Sharran quote reflection) · sample (Zak's own writing, deepened + cleaned)
+Saved at `drafts/2026-W25/thu-personal-story.md`. Voice/structure traits:
+- **"Quote → our reality → what we're doing about it"** structure — a strong, repeatable Thursday/reflection format. Opens on a borrowed quote ("another week, another gem from Sharran"), grounds it in his real situation, then lands a personal resolution (the *act*).
+- **Anaphora for honesty:** "We don't have the answer to… / We don't have the answer to…" (his rhythm; reinforces vulnerability).
+- **Identity line:** "We're just two Moroccan guys trying to make it in business." Distinctive, underdog, very him — keep leaning on this.
+- **Casual markers:** "Boy, isn't it so good!!", "get our hands dirty," "stop thinking, start doing."
+- **Soft pivot to a pitch CTA** at the end (services + link to the OpenRouter teardown). Note: watch the vulnerable→pitch tonal shift; it works here because the resolution earns it.
+- Reinforces: epistemic-humility + experimentation-over-overthinking (ties to the detachment post + "the way appears" post).
