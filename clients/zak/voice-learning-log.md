@@ -70,3 +70,13 @@ Saved at `drafts/2026-W25/thu-personal-story.md`. Voice/structure traits:
 - **Casual markers:** "Boy, isn't it so good!!", "get our hands dirty," "stop thinking, start doing."
 - **Soft pivot to a pitch CTA** at the end (services + link to the OpenRouter teardown). Note: watch the vulnerable→pitch tonal shift; it works here because the resolution earns it.
 - Reinforces: epistemic-humility + experimentation-over-overthinking (ties to the detachment post + "the way appears" post).
+
+### 2026-W25 · wed-value-newsletters ("Creators are sleeping on newsletters") · sample (Zak's own writing, cleaned + bullet-3 landing added)
+Saved at `drafts/2026-W25/wed-value-newsletters.md`. Strong template + traits:
+- **Data-led hook from his OWN research:** "Only 30% of that list had a newsletter, 10% were growing/monetizing it." (His own data > generic stats — reinforces result-led-hook P0.)
+- **Template worth reusing:** punchy claim hook → his data → a borrowed expert quote (then extend it) → 3 reasons (bold lead-ins) → one concrete, do-it-now CTA. Clean and repeatable.
+- **Contrarian/urgent stakes:** "To the Metas and ByteDances of the world, you don't matter, only how good your content is."
+- **Share CTA:** "if you know one, send this to them" (built-in virality).
+- **Concrete CTA with his `>` flow:** "beehiiv or Kit > free trial > write like texting a friend > …". Tactical, not vague.
+- Lesson reinforced: land the strongest point (bullet 3 originally drifted into an open question; resolving it = "that lane is wide open, move first" turned a musing into a take).
+- Quote-attribution discipline: verified Nathan May before publishing (avoided mis-correcting to Nathan Barry).
