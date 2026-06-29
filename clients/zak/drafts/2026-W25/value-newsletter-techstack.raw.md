@@ -22,4 +22,23 @@ For an influencer/creator trying to get their first newsletter edition out but d
 - Missing the #1-mistake / contrarian core.
 
 ## Deepening (Joe Rogan-style Q&A)
-_(to be filled)_
+
+### Round 1 (verbatim)
+1. **Kit vs beehiiv, pick one:** gun to my head, I'd go with **Kit.**
+2. **The AI-interview method (the differentiator):** "We don't want the AI to do the writing, the brainstorming, and the thinking for us. We want it to ask us the questions, because **the question is the pickaxe for the mind.**" Contrarian belief: you can't have AI do the writing for you. Have it ask you questions / interview you. Have it **act as Joe Rogan or a good interviewer** and ask a bunch of questions that expand on the content/idea you've produced, even if it's a rough idea.
+3. **Why it works:** "You don't want AI to do the thinking for you, you want it to amplify your notes, thoughts, and reflections." (Or work with us at Sawa, where we write newsletters for creators — soft CTA.)
+4. **Cold-subscriber line:** just an example → CUT.
+5. **Design via ChatGPT:** "It definitely does the job."
+6. **#1 mistake:** creators go "straight into selling." (Park as its own post — Zak wants this post focused on the tech stack, not mistakes.)
+
+### Key lines to feature
+- "The question is the pickaxe for the mind."
+- "Have AI act as Joe Rogan and interview you" — meta + memorable.
+- Soft CTA: or work with us at Sawa.
+
+### Still open (Round 2 — more on the STACK, per Zak's ask)
+- How people actually GET on the list (capture/growth: link in bio, signup form, ManyChat reel-to-DM).
+- The exact AI-interview setup (which tool, how to prompt it).
+- What ChatGPT actually designs (header, in-body graphics) and where it goes.
+- Deliverability gotchas a first-timer skips.
+- The bare-minimum MVP stack to ship edition one this week.
