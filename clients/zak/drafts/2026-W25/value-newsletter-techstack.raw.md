@@ -36,9 +36,19 @@ For an influencer/creator trying to get their first newsletter edition out but d
 - "Have AI act as Joe Rogan and interview you" — meta + memorable.
 - Soft CTA: or work with us at Sawa.
 
-### Still open (Round 2 — more on the STACK, per Zak's ask)
-- How people actually GET on the list (capture/growth: link in bio, signup form, ManyChat reel-to-DM).
-- The exact AI-interview setup (which tool, how to prompt it).
-- What ChatGPT actually designs (header, in-body graphics) and where it goes.
-- Deliverability gotchas a first-timer skips.
-- The bare-minimum MVP stack to ship edition one this week.
+### Round 2 (verbatim)
+1. **Getting people on the list:** the ESP gives you a signup form. To scale collection, use **ManyChat**. In the early days it's optional, not mandatory. (ManyChat is the tool.)
+2. **AI-interview how-to:** DON'T reveal the exact setup here. **Tease it and prompt people to comment** if they want a tactical part-two. (Gated follow-up.)
+3. **Deliverability / batching (he flagged "do more research"):** for someone who already has a list, break the send into batches. Don't send a first edition to all 10,000 at once; split into 4–5 batches to protect deliverability.
+4. **Bare-minimum MVP stack:** an ESP + a way to make your newsletter known (stories, reels, posts). That's it.
+- (Skipped: the ChatGPT-design specifics — keep design light, "it does the job.")
+
+### Deliverability research (2026-06, cited) — for the batching section
+- **His instinct is right** — it's about sender reputation. Mailbox providers judge the engagement of the first slice of each send.
+- **If you already have a list:** send to your **most-engaged subscribers first**, then ramp in batches over days (e.g., 25% → 45% → rest). Don't blast a big or stale list at once; don't spike volume (a 5x spike undoes weeks of trust).
+- **The real first-timer gotcha (most important):** authenticate your domain — **SPF, DKIM, DMARC** — before you send one email, or you land in spam. Gmail/Yahoo (Feb 2024) require all three above 5k/day, plus one-click unsubscribe. Kit/beehiiv walk you through this.
+- **Beginner-from-zero nuance:** on Kit/beehiiv shared infrastructure most of this is handled. A true first-timer just needs to authenticate, add the unsubscribe, and not import + blast a huge cold list. Batching mostly matters once you have size/an old list.
+- Sources: SMTP2GO warmup guide; Klaviyo/Iterable re-engagement; Mailjet SPF/DKIM.
+
+### STATUS: rich enough to draft.
+Structure: hook → ESP (pick: Kit; beehiiv alt) → how people get on the list (form, ManyChat optional) → write it (DON'T let AI write; have it INTERVIEW you — "the question is the pickaxe for the mind"; tease part-two CTA) → design (ChatGPT, does the job) → deliverability note (batch big/old lists, authenticate your domain) → MVP line (ESP + a way to make it known) → soft Sawa CTA.
