@@ -20,4 +20,17 @@
 - [Verify-before-publish: confirm the quote is actually Sahil Bloom's wording.]
 
 ## Deepening (Joe Rogan-style Q&A)
-_(to be filled)_
+
+### Round 1 (verbatim)
+1. **His default (the problem):** "I would always focus on things not working out." Devil's advocate: humans tend to assume things WILL NOT work, and get **"defeated before even getting on the pitch."**
+2. **The contradiction, resolved:** "I'm a big proponent of being outcome-agnostic, but assuming things will work out doesn't mean we attach our work to the outcome. Rather, we do the input needed, keep high hopes, and if that doesn't work out, it's never a loss."
+3. **Not toxic positivity:** "There's a fine line. Being hopeful and optimistic doesn't take away from being realistic and calculating risk. It doesn't take away from planning, and it doesn't always mean going all in. It's never a one-size-fits-all."
+4. **The mechanism:** "It helps you turn the knob down on that voice that is constantly painting the worst picture. The WHAT IF."
+(Skipped: Q5 why-now, Q6 the specific scared-it-won't-work — boundary; don't force.)
+
+### Resolved thesis (the post)
+Our default is to assume things won't work, so we get defeated before we even get on the pitch. The flip: **assume it WILL work out, then do the work to make it true.** It's NOT toxic positivity (you still plan, calculate risk, you don't blindly go all in). It's NOT attachment to the outcome (keep high hopes, but if it doesn't work, it's never a loss). What it really does is **turn down the volume on the "what if" voice** so you actually show up and put in the input. Resolves the tension with his recent outcome-agnostic posts instead of contradicting them.
+
+### Still open
+- One concrete moment (assumed failure and it cost him / flipped to "assume it works" and did the work) — optional, would add groundedness.
+- [Verify Sahil Bloom quote wording before publishing.]
