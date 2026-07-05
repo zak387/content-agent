@@ -6,6 +6,10 @@
       "env": {
         "APIFY_TOKEN": "${APIFY_TOKEN}"
       }
+    },
+    "kit-account": {
+      "type": "http",
+      "url": "https://app.kit.com/mcp"
     }
   }
 }
